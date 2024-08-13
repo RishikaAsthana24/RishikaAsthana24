@@ -1,9 +1,10 @@
+
 Hii I'm Rishika Asthana
 I'm  a Engineering Student and I'm interested in Software Development work , AI , ML.
 I’m currently learning JAVA , DSA with JAVA and have already learnt : Python , HTML , CSS
 I’m looking to collaborate with projects of Software Develpoment , creating applications .
 You can reach me at rishikaasthana15@gmail.com
-Pronouns: She
+
 A caffeine-fueled engineering student with a passion for building, breaking, and improving things. 
 
 <!---
